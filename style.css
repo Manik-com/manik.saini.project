@@ -3,6 +3,7 @@
     font-family: Inter,sans-serif;
     font-weight: 600;
     font-style: normal;
+    margin-left: 450px;
 }
 
 #body {
@@ -11,10 +12,11 @@
 }
 
 #about-project {
-    margin: 25px;
+    margin: 25px 450px;
     font-family: Inter;
     font-weight: 400;
     max-width: 620px;
+
 }
 
 #link-word {
@@ -23,10 +25,11 @@
 
 #border-line {
     border-bottom: 1.5px solid grey;
+    margin: 0px 450px;
 }
 
 #projects {
-    margin: 55px 0 0 10px;
+    margin: 55px 0 0 450px;
     font-family: Inter;
     font-weight: 400;
 }
@@ -35,7 +38,7 @@
     font-family: Inter;
     font-size: 16px;
     font-weight: 500;
-    margin-bottom: 10px;
+    margin: 0px 0px 10px 450px;
 }
 
 #project-2024 {
@@ -55,7 +58,7 @@
     margin-top: 10px;
     margin-bottom: 20px;
     text-align: center;
-    
+    margin-left: 450px;
     
 }  
 
@@ -70,6 +73,7 @@
     height: 24PX;
     font-family: Inter;
     font-weight: 400;
+    margin-left: 450px;
 }
 
 #role-3 {
@@ -97,6 +101,7 @@
     height: 24PX;
     font-family: Inter;
     font-weight: 400;
+    margin-left: 450px;
 }
 
 #role-5 {
@@ -124,6 +129,7 @@
     height: 24PX;
     font-family: Inter;
     font-weight: 400;
+    margin-left: 450px;
 }
 
 #project-2023 {
@@ -139,16 +145,16 @@
 }
 
 #contact {
-    margin: 25px 10px;
+    margin: 25px 0px 25px 450px;
     font-family: Inter;
     font-weight: 400;
 }
 
 #footer {
     display: flex;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 10px;
+    margin-left: 450px;
     margin-right: 10px;
     font-family: Inter;
     font-weight: 400;
@@ -160,6 +166,7 @@
     margin-right: 160px;
     font-family: Inter;
     font-weight: 400;
+    text-underline-offset: black;
 }
 
 
@@ -167,6 +174,8 @@
     text-align: center;
     font-family: Inter;
     font-weight: 400;
+    margin-left: -465px;   
+    margin-top: 150px;
 }
 
 
@@ -184,6 +193,7 @@
     width: 640px;
     height: 49.6px;
     line-height: 47px;
+    margin-left: 450px;
 }
 
 #id {
